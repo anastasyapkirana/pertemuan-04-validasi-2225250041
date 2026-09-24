@@ -1,8 +1,8 @@
 # Pertemuan 04 Seleksi Multi-Kondisi dan Validasi Input
 
-Nama: Anastasya Putri Kirana
-NIM: 2225250041
-Kelas: 3A
+### Nama: Anastasya Putri Kirana
+### NIM: 2225250041
+### Kelas: 3A
 
 ## Tujuan
 
